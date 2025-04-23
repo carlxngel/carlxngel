@@ -7,13 +7,12 @@
 
 I’m a spanish junior professional with a strong background in user-centered design and data analysis. I hold a Master’s degree in UX/UI, where I developed key skills in user research, intuitive interface design, and creating digital experiences focused on people. I complemented my profile with a bootcamp in Data Analytics and Artificial Intelligence, which has allowed me to integrate data insights and emerging technologies into the design process.
 
-- 🤖 Developing cutting-edge AI solutions including RAG systems, LLMs, and Computer Vision
-- 🧠 Implementing and fine-tuning state-of-the-art ML models
-- 🔄 Building end-to-end ML pipelines and MLOps workflows
-- 🚀 Creating robust full-stack applications with modern frameworks
-- 📊 Transforming complex data into actionable business insights
-- 🎓 Mentoring in advanced AI and Data Science concepts
-- 🌐 Deploying scalable solutions in cloud environments
+- 🤖 Designing experiences based on user needs, behaviors, and feedback through research and usability testing.
+- 🔄 Creating low- to high-fidelity wireframes and interactive prototypes.
+- 📊 Transforming complex data into actionable business insights.
+- 🧠Applying basic data analysis and visualization to inform design decisions, using tools like Python.
+- 🚀 Working in cross-functional teams, communicating decisions clearly, and receiving feedback constructively.
+
 
 ## 🛠️ Technical Stack
 
@@ -60,4 +59,4 @@ I’m a spanish junior professional with a strong background in user-centered de
 
 ## 🌐 Let's Connect!
 
-[LinkedIn](www.linkedin.com/in/carla-molina-angel-274548283)
+[LinkedIn](https://www.linkedin.com/in/carla-molina-angel-274548283)
