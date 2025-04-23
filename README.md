@@ -57,31 +57,7 @@ I’m a spanish junior professional with a strong background in user-centered de
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🌟 Current Roles
-
-- **Full Stack Engineer** @ Upgrade Hub
-  - Developing AI-powered web applications
-  - Implementing cloud-based solutions
-  - Creating scalable architectures
-
-- **Data Science Mentor**
-  - Teaching advanced data science concepts
-  - Guiding students in ML model development
-  - Specializing in prompt engineering and LLMs
-
-- **Data Specialist** @ MAIA
-  - Delivering AI solutions globally
-  - Implementing custom AI systems
-  - Leading system testing and optimization
 
 ## 🌐 Let's Connect!
 
-[Check out about me:](www.linkedin.com/in/carla-molina-angel-274548283)
-
----
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Demstalfer&icon=0&color=0)](https://visitcount.itsvg.in)
+[LinkedIn](www.linkedin.com/in/carla-molina-angel-274548283)
