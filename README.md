@@ -1,4 +1,4 @@
-# Welcome!👨‍💻
+# Welcome!
 
 
 > Passionate about building digital solutions and delivering real value to users and businesses.
@@ -76,7 +76,7 @@ I’m a spanish junior professional with a strong background in user-centered de
 
 ## 🌐 Let's Connect!
 
-[Check out about me:](https://demetrio.info)
+[Check out about me:](www.linkedin.com/in/carla-molina-angel-274548283)
 
 ---
 
