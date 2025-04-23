@@ -1,7 +1,7 @@
 # Welcome!
 
 
-> Passionate about building digital solutions and delivering real value to users and businesses.
+> Passionate about building digital solutions and delivering real value to users and businesses through user research and data analysis.
 
 ## 🎯 About Me
 
