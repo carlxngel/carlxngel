@@ -1,30 +1,11 @@
-## Hi there 👋
-
-<!--
-**carlxngel/carlxngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Welcome!👨‍💻
 
 
-# Welcome !👨‍💻
-
-<center> <img src="DSREADME.gif"></center> <br><br>
-
-> Building intelligent systems at the intersection of AI, Data Science, and Cloud Computing
+> Passionate about building digital solutions and delivering real value to users and businesses.
 
 ## 🎯 About Me
 
-I'm a Spanish AI developer specializing in building advanced intelligent systems and scalable solutions. With deep expertise in AI, Data Science, and Full-Stack development, I focus on:
+I’m a spanish junior professional with a strong background in user-centered design and data analysis. I hold a Master’s degree in UX/UI, where I developed key skills in user research, intuitive interface design, and creating digital experiences focused on people. I complemented my profile with a bootcamp in Data Analytics and Artificial Intelligence, which has allowed me to integrate data insights and emerging technologies into the design process.
 
 - 🤖 Developing cutting-edge AI solutions including RAG systems, LLMs, and Computer Vision
 - 🧠 Implementing and fine-tuning state-of-the-art ML models
