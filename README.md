@@ -1,69 +1,57 @@
-# Welcome!
+# 👋 Hello World! I'm Carla Molina
 
+> Data-Driven UX Designer | AI Enthusiast | Digital Experience Architect
 
-> Passionate about building digital solutions and delivering real value to users and businesses through user research and data analysis.
+## 💡 Core Competencies
 
-## 🎯 About Me
+```python
+class DigitalCreator:
+    def __init__(self):
+        self.focus_areas = ['UX/UI Design', 'Data Analytics', 'AI Integration']
+        self.passion = 'Creating data-informed digital experiences'
+```
 
-I’m a spanish junior professional with a strong background in user-centered design and data analysis. I hold a Master’s degree in UX/UI, where I developed key skills in user research, intuitive interface design, and creating digital experiences focused on people. I complemented my profile with a bootcamp in Data Analytics and Artificial Intelligence, which has allowed me to integrate data insights and emerging technologies into the design process.
+## 🎯 Professional Profile
 
-- 🤖 Designing experiences based on user needs, behaviors, and feedback through research and usability testing.
-- 🔄 Creating low- to high-fidelity wireframes and interactive prototypes.
-- 📊 Transforming complex data into actionable business insights.
-- 🧠Applying basic data analysis and visualization to inform design decisions, using tools like Python.
-- 🚀 Working in cross-functional teams, communicating decisions clearly, and receiving feedback constructively.
+Armed with a Master's in UX/UI and specialized training in Data Analytics & AI, I bridge the gap between human-centered design and data-driven decision making. My approach combines:
 
+- 🔬 Evidence-based design through rigorous user research
+- 📊 Data analytics to validate design decisions
+- 🤖 AI integration for enhanced user experiences
+- 🎨 Intuitive interface design and prototyping
+- 🔄 Agile methodwork in cross-functional teams
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Arsenal
 
-### AI & Data Science
+### Data Science & AI Tools
+```mermaid
+graph LR
+    A[Data Processing] --> B[Python Ecosystem]
+    A --> C[SQL Databases]
+    B --> D[pandas/numpy]
+    B --> E[scikit-learn]
+    C --> F[PostgreSQL/MySQL]
+    C --> G[BigQuery/Snowflake]
+```
 
-📊 **Data analysis and processing**
-- Excel / Google Sheets - Quick analysis, formulas, pivot tables, basic dashboards
-- Python (with libraries like pandas, numpy, matplotlib, seaborn)
+### UX/UI Toolkit
+```json
+{
+  "design": ["Figma", "Adobe XD", "Illustrator"],
+  "research": ["Optimal Workshop", "Maze", "Lookback"],
+  "collaboration": ["Miro", "FigJam", "Notion"],
+  "visualization": ["Tableau", "Power BI", "Matplotlib"]
+}
+```
 
-💾 **Databases and SQL**
-- MySQL / PostgreSQL / SQLite - Queries, data cleansing and data mining
-- Microsoft SQL Server / Oracle - Widely used in corporate environments
-- BigQuery / Snowflake - Big data analytics in the cloud
+## 📈 What I Bring to the Table
 
-📈 **Data visualization**
-- Tableau - Interactive visualizations and dashboards
-- Power BI - Integration with Microsoft ecosystem
-- Looker / Google Data Studio - Cloud-based online visualization
-- Matplotlib / Seaborn / Plotly (in Python) - Custom visualizations
-
-🧠 **Basic statistics and machine learning**
-- Scikit-learn - Predictive models, regression, classification
-- Statsmodels - Classical statistical analysis
-- TensorFlow / PyTorch (advanced level or if crossed with AI)
-
-🧰 **Complementary tools**
-- Git / GitHub - Version control, collaboration
-- Jupyter Notebook / Google Colab - Interactive experiments with code
-- Notion / Trello / Jira - Task and project organization
-- APIs - Data extraction from external sources (ex. REST APIs)
-
-
-### UX/UI
-🎨 **Interface Design (UI)**
-- Figma - Interface design, interactive prototyping and real-time collaboration
-- Adobe XD - Alternative for screen design and prototyping
-- Adobe Illustrator / Photoshop - For icons, graphic retouching and more elaborate visuals
-
-✍️ **UX Research & Conceptualization**
-- Miro / FigJam - Empathy maps, journey maps, collaborative brainstorming
-- Optimal Workshop - Tree testing, card sorting, information analysis
-- Google Forms / Typeform - Surveys for user research
-- Maze / Lookback / Useberry - Remote testing with real users
-
-💬 **Collaboration and project management**
-- Notion / Trello / Jira - Task management and tracking of design processes
-- Slack / Microsoft Teams - Communication with multidisciplinary teams
-- Google Workspace - Documentation, presentations, collaboration
-
-
+- Deep understanding of user behavior analytics
+- Experience in creating data-driven prototypes
+- Proficiency in modern design tools and frameworks
+- Strong foundation in statistical analysis and ML basics
+- Effective cross-functional team collaboration
 
 ## 🌐 Let's Connect!
 
-[LinkedIn](https://www.linkedin.com/in/carla-molina-angel-274548283)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carla_Molina-blue)](https://www.linkedin.com/in/carla-molina-angel-274548283)
